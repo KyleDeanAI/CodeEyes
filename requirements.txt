@@ -1,0 +1,10 @@
+streamlit
+pandas
+plotly
+langchain
+langchain-community
+langchain-huggingface
+sentence-transformers
+faiss-cpu
+langchain-text-splitters
+langchain-core
